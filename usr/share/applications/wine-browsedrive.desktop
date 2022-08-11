@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Browse C Drive
+Name[ja]=Cドライブを開く
+Exec=wine winebrowser  c:
+Terminal=false
+Type=Application
+Icon=folder-wine
+Categories=Utility;Emulator;
