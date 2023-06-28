@@ -1,4 +1,4 @@
-# uvgl-wine
-Wine Installer for Univalent GNU/Linux
+# uve-wine
+Wine Installer for Univalent Versatile Environment
 
-UVGL用のWineインストーラです。
+UVE用のWineインストーラです。
